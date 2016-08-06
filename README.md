@@ -7,7 +7,6 @@
  * Author: 莫小奈
  * Author Email: admin@moxiaonai.cn
  * Author URL: http://blog.moxiaonai.cn/   
- ### remaining problems：  
- The Api for the music-player's background-color is Invalid，And i'm not a Phper,so i cannot solve it recently. The Replace way is 
- written it by using the fixed color; You can find it in js/player.js.
+#### remaining problems：  
+ The Api for the music-player's background-color is Invalid，And i'm not a Phper,so i cannot solve it recently. The Replace way is written it by using the fixed color; You can find it in js/player.js.
 Please wait me to solve it in the future.good luck!
